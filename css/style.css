@@ -1,33 +1,10 @@
-/* Custom Stylesheet */
-/**
- * Use this file to override Materialize files so you can update
- * the core Materialize files in the future
- *
- * Made By MaterializeCSS.com
- */
-
-nav ul a,
-nav .brand-logo {
-  color: #444;
-}
-
 p {
   line-height: 2rem;
-}
-
-.sunset {
-  width: 700px;
-  display: block;
-  margin: 0 auto;
 }
 
 h5 {
   font-size: 20px;
   font-weight: 800;
-}
-
-.sidenav-trigger {
-  color: #26a69a;
 }
 
 .profile {
@@ -42,9 +19,10 @@ h5 {
   height: auto;
   color: rgba(255,255,255,.9);
 }
-  .parallax-container .section {
-    width: 100%;
-  }
+
+.parallax-container .section {
+  width: 100%;
+}
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
