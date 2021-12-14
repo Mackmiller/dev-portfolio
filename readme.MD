@@ -1,3 +1,3 @@
 # Developer Portfolio
 
-Developer portfolio is deployed [here](https://mackmiller.github.io/dev-portfolio/)
+Developer portfolio is deployed [here](http://mackmiller.dev/)
